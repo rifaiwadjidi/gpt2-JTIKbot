@@ -6,7 +6,7 @@ import torch
 
 # ====== KONFIGURASI ======
 TELEGRAM_TOKEN = "7628207191:AAGIbXPicedQ2Rex-TwmFx96PAyEXl8RNuM"
-MODEL_REPO = "rifaiwadjidi/gpt2_JTIKbot"
+MODEL_REPO = "rifaiwadjidi/gpt2-JTIKbot"
 
 # ====== SETUP ======
 logging.basicConfig(level=logging.INFO)
