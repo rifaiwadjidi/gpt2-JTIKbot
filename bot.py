@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 BOT_TOKEN = os.getenv("7628207191:AAGIbXPicedQ2Rex-TwmFx96PAyEXl8RNuM")
-HF_API_URL = os.getenv("https://hf.space/embed/rifaiwadjidi/chatbot-gpt2/+/api/predict/")
+HF_API_URL = os.getenv("https://hf.space/embed/rifaiwadjidi/gpt2-JTIKbot/+/api/predict/")
 
 def ask_model(prompt):
     try:
